@@ -1,0 +1,46 @@
+1. Buttons like Login, register , submit should be removed on clicking
+not shifted aside!
+
+//agorithm to compare sympthoms
+-> get an array of the required sympthoms
+-> compare the array with the user's selected
+    sympthoms
+-> If the user's selection is less, reject!
+-> If the user's selection is more 
+    {
+        -> get the symptoms that are difference
+            btwn valid and selected $count_diff
+        -> if $count_diff > 0
+            {
+                reject
+            }else
+            {
+                accept
+            }
+    }
+
+
+for Dashboard
+*You should check if the Firstname + Lastname > *Max(x)*{
+    Then use only last name
+}else{
+    Use both
+}
+
+pfname
+plname
+dob
+bldgrp
+genotype
+gfname
+glname
+email
+phone
+
+#patient
+#sdate
+#stime
+#note
+
+.crt_loading
+#createBtn
